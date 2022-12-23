@@ -443,7 +443,7 @@ export class ChatGPTAPIBrowser extends AChatGPTAPI {
           }
         }
       ],
-      model: 'text-davinci-002-render',
+      model: 'text-davinci-003-render',
       parent_message_id: parentMessageId
     }
 
